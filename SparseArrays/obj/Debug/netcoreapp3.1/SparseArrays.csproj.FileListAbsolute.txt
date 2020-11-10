@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\SparseArrays\SparseArrays\bin\Debug\netcoreapp3.1\SparseArrays.exe
+C:\Users\monisha.khapali\source\repos\SparseArrays\SparseArrays\bin\Debug\netcoreapp3.1\SparseArrays.deps.json
+C:\Users\monisha.khapali\source\repos\SparseArrays\SparseArrays\bin\Debug\netcoreapp3.1\SparseArrays.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\SparseArrays\SparseArrays\bin\Debug\netcoreapp3.1\SparseArrays.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\SparseArrays\SparseArrays\bin\Debug\netcoreapp3.1\SparseArrays.dll
+C:\Users\monisha.khapali\source\repos\SparseArrays\SparseArrays\bin\Debug\netcoreapp3.1\SparseArrays.pdb
+C:\Users\monisha.khapali\source\repos\SparseArrays\SparseArrays\obj\Debug\netcoreapp3.1\SparseArrays.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\SparseArrays\SparseArrays\obj\Debug\netcoreapp3.1\SparseArrays.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\SparseArrays\SparseArrays\obj\Debug\netcoreapp3.1\SparseArrays.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\SparseArrays\SparseArrays\obj\Debug\netcoreapp3.1\SparseArrays.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\SparseArrays\SparseArrays\obj\Debug\netcoreapp3.1\SparseArrays.dll
+C:\Users\monisha.khapali\source\repos\SparseArrays\SparseArrays\obj\Debug\netcoreapp3.1\SparseArrays.pdb
+C:\Users\monisha.khapali\source\repos\SparseArrays\SparseArrays\obj\Debug\netcoreapp3.1\SparseArrays.genruntimeconfig.cache
